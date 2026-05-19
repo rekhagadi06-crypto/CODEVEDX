@@ -1,0 +1,8 @@
+question,answer
+"hello","Hello! How can I help you?"
+"hi","Hi! Welcome to the AI Helpdesk."
+"what is python","Python is a programming language."
+"what is machine learning","Machine Learning is a branch of AI."
+"how to upload project on github","Use git add, commit and push commands."
+"what is flask","Flask is a Python web framework."
+"bye","Goodbye! Have a nice day."
